@@ -3,6 +3,7 @@ export const createSearchBar = (
   onSearch: (city: string) => void,
 ): HTMLDivElement => {
   const container = document.createElement('div');
+  container.classList.add('search-bar');
   const input = document.createElement('input');
   const button = document.createElement('button');
 

@@ -1,12 +1,12 @@
 // src/api/weatherApi.ts
-interface WeatherData {
+export interface WeatherData {
   city: string;
   temperature: number;
   description: string;
   icon: string;
 }
 
-const API_KEY = 'your_openweather_api_key';
+const API_KEY = '90f1216f492341bf6bdbd7c5994e71a5';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 export const fetchWeather = async (
