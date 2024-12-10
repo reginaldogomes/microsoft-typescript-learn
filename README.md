@@ -82,4 +82,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para perguntas ou sugestões, entre em contato:
 
-- **Seu Nome** - seuemail@example.com
+- **Reginaldo Gomes** - contato@reginaldogomes.dev.br
